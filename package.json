@@ -1,0 +1,27 @@
+{
+  "name": "bootsie-nunjucks",
+  "version": "1.0.0",
+  "description": "Nunjucks plugin for bootsie static website generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelCereda/bootsie-nunjucks.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "bootsie",
+    "bootsieplugin"
+  ],
+  "author": "Michael Cereda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelCereda/bootsie-nunjucks/issues"
+  },
+  "homepage": "https://github.com/MichaelCereda/bootsie-nunjucks",
+  "dependencies": {
+    "nunjucks": "^1.1.0"
+  }
+}
